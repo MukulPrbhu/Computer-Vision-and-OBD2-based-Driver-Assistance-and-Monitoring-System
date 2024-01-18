@@ -1,4 +1,4 @@
-# Computer-Vision-and-OBD2-based-Driver-Assistance-and-Monitoring-System
+# Computer Vision and OBD2 based Driver Assistance and Monitoring System
 The increasing number of Automobiles on the road has made keeping up with the Road Safety
 Standards a challenge, for both, the Commuters and the Authorities. The Commuters face the
 challenge of keeping track of Traffic Signs, Lanes, other vehicles and much more
